@@ -107,3 +107,10 @@ int main() {
 
     return 0;
 }
+
+
+/* Encontrar nodos conectados en un grafo
+- Ordenamiento topológico en un grafo acíclico dirigido
+- Encontrar puentes en un grafo de nodos
+- Resolver puzzles con una sola solución, como los laberintos
+- Encontrar nodos fuertemente conectados */
