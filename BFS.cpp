@@ -118,3 +118,11 @@ int main() {
 
     return 0;
 }
+
+/*
+- Encontrar el camino más corto entre 2 nodos, medido por el número de nodos conectados
+- Probar si un grafo de nodos es bipartito (si se puede dividir en 2 conjuntos)
+- Encontrar el árbol de expansión mínima en un grafo no ponderado
+- Hacer un Web Crawler
+- Sistemas de navegación GPS, para encontrar localizaciones vecinas
+*/
